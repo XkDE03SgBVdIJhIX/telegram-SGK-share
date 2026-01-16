@@ -9,7 +9,7 @@
 
 ---
 
-### 情报局社工库之玄武 地址：[@QingBaoJuXuanwubot](https://t.me/QingBaoJuXuanwubot?start=NTk4NTMyMjQzMQ==)
+
 
 ### FanHua社工库Bot 地址：[@FanHuaBot](https://t.me/FanHuaSGK_bot?start=FanHua_FJQFNFAI)
 
